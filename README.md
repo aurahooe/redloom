@@ -1,2 +1,3 @@
-# redloom
-Redloom — a living hourly wall. Public threads stay public. Private ones stay in the drawer.
+# Redloom
+
+A living hourly wall. Sign in with a magic link, keep notes private, or pin them public.
